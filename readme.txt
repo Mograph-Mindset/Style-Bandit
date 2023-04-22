@@ -17,4 +17,4 @@ To copy a text layer's properties, select a Text Layer and run Layer > Copy Text
 After the text style has been copied, it can be pasted to other layers with Layer > Paste Text Style.
 
 Map to any Keyboard Shortcut!
-ex: CTRL + ALT + C or ⌘ + ⌃ + C
+ex: CTRL + ALT + C / CTRL + ALT + V or ⌘ + ⌃ + C / ⌘ + ⌃ + V
