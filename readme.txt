@@ -1,5 +1,5 @@
 Name: Style Bandit
-Version: 1.0
+Version: 1.1
 Authors: Mograph Mindset & Nate Lovell
 
 https://aescripts.com/style-bandit/
